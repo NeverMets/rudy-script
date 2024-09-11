@@ -14,4 +14,4 @@ end)
 local Tab = Window:NewTab("Dupe [SOON]")
 
 getgenv().gui = false
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripts-Z/Scripts/main/WYON1HV80ERI.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripts-Z/Scripts/main/JWMZVLYGPRE6.lua"))()
